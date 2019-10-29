@@ -1,0 +1,12 @@
+{
+  "name": "sass",
+  "version": "1.0.0",
+  "description": "",
+  "main": " ",
+  "scripts": {
+    "compile-sass": "node-sass scss/style.scss css/style.css -w"
+  },
+  "dependencies": {
+    "node-sass": "^4.13.0"
+  }
+}
